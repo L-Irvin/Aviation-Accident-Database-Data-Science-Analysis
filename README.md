@@ -5,9 +5,9 @@ This is a group assignment of NTU CZ1015: Introduction to Data Science and Artif
 In this project, we are encouraged to create a model which optimizes the prediction of aircraft accident severity.
 
 There are 3 files in this repository:
-1. *Data Cleaning*: Cleaning all the dirty data from the raw data.
-1. *Bivariate Analyses*: Comparison between variables to determine the decisive factor of an accident.
-1. *Classifier Algorithms*: Harnessing several machine learning algorithms to find the best predictor of an accident's severity.
+1. **Data Cleaning**: Cleaning all the dirty data from the raw data.
+1. **Bivariate Analyses**: Comparison between variables to determine the decisive factor of an accident.
+1. **Classifier Algorithms**: Harnessing several machine learning algorithms to find the best predictor of an accident's severity.
 
 ## Dependencies
 
